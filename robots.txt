@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodewasude.github.io/sitemap.xml
